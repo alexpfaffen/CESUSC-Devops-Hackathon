@@ -1,2 +1,2 @@
-# cesusc-devops-hakaton
-primeira alteracao
+# CESUSC-Devops-Hackathon
+
